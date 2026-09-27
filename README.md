@@ -252,8 +252,6 @@ o	print ("Hello, World!")
 o	Press Enter. The computer will display:
 o	Hello, World!
 
-
-
 MSI and Exe File
  <img width="945" height="256" alt="image" src="https://github.com/user-attachments/assets/de2ec628-2a4d-48e6-a5ce-7014536a1fd1" />
 
@@ -283,12 +281,15 @@ Simple GUI installation	EXE
 
 For most users downloading Python from python.org, the EXE installer is the recommended choice. The MSI installer is typically used in enterprise environments for automated deployments.
 Checking Installation: Window + R)
+
  <img width="620" height="319" alt="image" src="https://github.com/user-attachments/assets/bed98fc7-c05f-4a8e-9015-f919518eb2fc" />
 
 Run Command CMD - The Command Prompt (CMD) window will open.
+
  <img width="940" height="160" alt="image" src="https://github.com/user-attachments/assets/1a48e40c-99b4-4b85-ac2d-55aa0c7d34bd" />
 
 Giving following Command PYTHON
+
  <img width="945" height="154" alt="image" src="https://github.com/user-attachments/assets/39f470fd-9ac7-483b-9acd-6b6b15753706" />
 
 Here Python is installed and its Version Clearly Shows 1.13.14
@@ -309,42 +310,55 @@ Implicit
 
 1.4 Installation of Visual studio
 You can download it From Microsoft Sore or from Website.
+
  <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/cece1f0a-9633-4522-bf48-e2bbc695c37d" />
 
 
 After Installation we have to give extension Ctrl+Shift+X
+
 1. Code runner (Jun Han)
+2. 
  <img width="945" height="174" alt="image" src="https://github.com/user-attachments/assets/e295294e-614e-4879-b1e0-dd2db22f6e3b" />
 
-2. Pylance
+3. Pylance
+   
 <img width="945" height="174" alt="image" src="https://github.com/user-attachments/assets/c2cd82b1-1fec-48c7-aff7-3d6705f24098" />
 
- 3. Python
+ 4. Python
+ 5. 
    <img width="945" height="179" alt="image" src="https://github.com/user-attachments/assets/3eab8d44-769d-4252-acfd-2fa68dd09a0e" />
 
 4.Python Environment
 
 We have to make one folder where we can save all our data
+
  <img width="945" height="223" alt="image" src="https://github.com/user-attachments/assets/7a15b64e-75b4-4393-853f-827d0ddea09f" />
 
 Now Gave the path 
 Settings:
 Program Zoom
 Setting- Setting- Search Zoom and Click Zoom on
+
  <img width="932" height="280" alt="image" src="https://github.com/user-attachments/assets/a9f912eb-e23a-46ac-bbdb-ac0e50a10f10" />
 
 Run in terminal
 Here we run the program “Hello World”
 We get Following Output  
+
 <img width="937" height="478" alt="image" src="https://github.com/user-attachments/assets/722fc9a0-b242-46a7-aee5-d999ec7d0e21" />
 
 To correct this one, we did follow setting 
+
  <img width="945" height="244" alt="image" src="https://github.com/user-attachments/assets/bc510638-bea5-434e-beb8-6d0983df5031" />
 
 Auto Save for programmed
+
   <img width="521" height="743" alt="image" src="https://github.com/user-attachments/assets/069f5f51-5715-4228-a8f7-e94fa3c463ba" />
+  
 Here code is automatically saved without manual saving.
+
 <img width="945" height="252" alt="image" src="https://github.com/user-attachments/assets/609a4e79-87ff-4242-a840-5c639c29f5f5" />
+
 We get idea about error at the top of program with path followed by Number. Here we get 2 Number
  
 
