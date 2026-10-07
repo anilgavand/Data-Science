@@ -357,9 +357,91 @@ Auto Save for programmed
   
 Here code is automatically saved without manual saving.
 
-<img width="945" height="252" alt="image" src="https://github.com/user-attachments/assets/609a4e79-87ff-4242-a840-5c639c29f5f5" />
+
+ 
+1.4 Print function
 
 We get idea about error at the top of program with path followed by Number. Here we get 2 Number
  
+<img width="945" height="368" alt="image" src="https://github.com/user-attachments/assets/017c0d9e-d369-4777-907f-d19adf6b9e21" />
+
+
+The output as per Following.
+ 
+<img width="1050" height="124" alt="image" src="https://github.com/user-attachments/assets/e9af5882-ec10-40d2-91d5-53fa52302899" />
+
+Programing with IDLE:
+
+ <img width="1013" height="256" alt="image" src="https://github.com/user-attachments/assets/8ff5492a-49c8-43cf-acf0-eeb60edff98f" />
+
+
+Print Function in Python
+The print() function is one of the most commonly used built-in functions in Python. It is used to display information, messages, variables, calculations, and results on the output screen.
+The main purpose of the print() function is to communicate information from a program to the user. Whenever a program needs to show data, instructions, results, or status messages, the print() function is used.
+The print() function provides several parameters that help control how the output appears. Two important parameters are sep and end.
+
+sep = Controls the space or separator between printed values. 
+end = Controls what happens after the output is printed.
+
+sep Parameter (Separator)
+The word sep stands for Separator.
+When multiple values are printed in a single print() statement, Python automatically places a separator between them. The sep parameter allows the programmer to control what character or string is inserted between those values.
+Purpose of sep
+•	Controls the spacing between multiple output items.
+•	Improves readability of output.
+•	Allows customization of output formatting.
+•	Can join multiple values using any symbol or text.
+Default Behavior
+If the sep parameter is not specified, Python uses a single space as the separator.
+Features of sep
+•	Works only when two or more values are being printed together.
+•	Accepts strings as separators.
+•	Can be a space, comma, dash, colon, special symbol, or even an empty string.
+•	Helps create formatted output without manually joining strings.
+Uses of sep
+•	Displaying names and values neatly.
+•	Creating custom formatted text.
+•	Generating reports and tables.
+•	Formatting file paths, dates, or addresses.
+•	Joining output elements with specific symbols.
+
+end Parameter
+The word end refers to the character or string that is added after the output is printed.
+After displaying output, Python automatically places something at the end. The end parameter controls what is added after printing.
+Purpose of end
+•	Controls where the next output begins.
+•	Decides whether output should continue on the same line or move to a new line.
+•	Helps create customized output layouts.
+Default Behavior
+If the end parameter is not specified, Python automatically inserts a newline character after printing. This causes the next output to appear on the next line.
+Features of end
+•	Added after the entire output is printed.
+•	Accepts any string value.
+•	Can remove the newline behavior.
+•	Can add symbols, spaces, arrows, commas, or custom messages after output.
+•	Useful for formatting continuous output.
+Uses of end
+•	Keeping multiple outputs on the same line.
+•	Designing menus and prompts.
+•	Creating formatted reports.
+•	Building progress indicators.
+•	Controlling the appearance of output screens.
+Key points:
+1.	print() is used to display output on the screen.
+2.	sep controls the separation between multiple values.
+3.	The default separator is a single space (" ").
+4.	end controls what is added after printing.
+5.	The default end value moves the cursor to the next line ("\n").
+6.	sep affects the middle part of the output.
+7.	end affects the final part of the output.
+8.	Both parameters are used for output formatting and presentation.
+9.	Proper use of sep and end makes program output more readable and professional.
+10.	sep and end are optional parameters of the print() function.
+11.	Both parameters accept string values.
+12.	sep is applied between multiple output values, while end is applied after the complete output is displayed.
+13.	Customizing sep and end helps create well-formatted and user-friendly output.
+14.	These parameters reduce the need for extra formatting code and make programs easier to maintain.
+
+ 
 
  
