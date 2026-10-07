@@ -426,7 +426,9 @@ Uses of end
 •	Creating formatted reports.
 •	Building progress indicators.
 •	Controlling the appearance of output screens.
+
 Key points:
+
 1.	print() is used to display output on the screen.
 2.	sep controls the separation between multiple values.
 3.	The default separator is a single space (" ").
